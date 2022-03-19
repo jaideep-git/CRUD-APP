@@ -1,0 +1,151 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-rows: 6rem auto 4rem;
+  grid-template-columns: 100%;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+  .ab {
+    height: 33px;
+    background-color:cornflowerblue;
+    color: #fff;
+    font-size: 17px;
+    border-color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom:20px;
+  }
+
+  .submit1{
+    height:27px;
+    position: relative;
+    left: 20px;
+    margin-right:11px;
+    font-size: 17px;
+    background-color:#2978b5;
+    color: #fff;
+  }
+  
+  input{
+    padding: 5px;
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10px;
+  }
+  .new-borrower{
+    background-color:antiquewhite
+  }
+  select{
+    font-size: 13px;
+  }
+  html {
+    font-size: 16px;
+    background-color: #f4eee8;
+  }
+  
+  body {
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+  }
+  
+  header {
+    background: #0B8261;
+    padding: 1px;
+    color: #fff;
+    width: 100%;
+    text-transform: uppercase;
+    height: 5rem;
+    display:flex;
+    align-items: center;
+  }
+  
+  h1 {
+    margin: 0;
+    margin-left: 50px;
+    font-size: 27px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    background: #0B8261;
+    padding: 2px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    color: #fff;
+    margin-top: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  main {
+    background: #F5F5F5;
+    max-width: 170ch;
+    min-width: 140ch;
+    margin: 2em;
+    padding: 1em;
+    border-radius: 1.25em;
+    justify-self: center;
+  } 
+
+  tbody td{
+    text-align: center;
+    padding: 0.5rem;
+  }
+
+  select{
+    width:200px
+  }
+
+  tbody th{
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+  }
+
+
+  .submit {
+    background: #E03100;
+    font-size:14px;
+    height:30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-right:7px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding-right:10px;
+    padding-left:10px;
+  }
+  
+  .button {
+    background: #E03100;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+  }
+  h3 {
+    margin-bottom: 35px;
+    font-weight: 500;
+    font-size: 25px;
+  }
+  
+  .info{
+    color:#3f37c9;
+    font-weight: 600;
+  
+  }
+.link{
+font-size: 16px;
+}
+  
